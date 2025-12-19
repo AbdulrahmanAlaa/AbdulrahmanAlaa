@@ -31,8 +31,8 @@ I specialize in modern frontend architectures, performance optimization, and del
 - Code reviews and mentoring junior engineers
 
 ### 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/your-link
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/abdulrahmanalaaeldeen/
+- Email: abdulrahmanalaa@hotmail.com
 
 ### 😄 Pronouns
 - He / Him
